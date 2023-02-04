@@ -14,6 +14,6 @@ public class divisible{
 		}
 		
 				
-		System.out.println("\n");
+		System.out.println("\n"); // print nextline after one number
   }
 }
